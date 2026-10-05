@@ -12,7 +12,7 @@
 > Esto es una cita
 > Continuación de la cita
 
-##LISTAS
+## LISTAS
 ### DESORDENADAS
 - Elemento 1
 * Elemento 2
@@ -41,7 +41,8 @@ https://www.youtube.com/watch?v=y6XdzBNC0_0
 
 ## IMÁGENES
 
-https://yt3.googleusercontent.com/ytc/AIdro_kf4l8KFllL66uwxobgGe3ci13w8gPO2YQ_cOYCvS6AqJM=s160-c-k-c0x00ffffff-no-rj
+![Foto](https://yt3.googleusercontent.com/ytc/AIdro_kf4l8KFllL66uwxobgGe3ci13w8gPO2YQ_cOYCvS6AqJM=s160-c-k-c0x00ffffff-no-rj)
+
 
 ## CÓDIGO
 
